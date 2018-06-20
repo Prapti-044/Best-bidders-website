@@ -1,0 +1,20 @@
+﻿#add_item_container {
+    margin-top: 3rem;
+    background-color: #e9a9f1;
+    padding: 5rem
+}
+
+
+#change_settings_container {
+     margin-top: 3rem;
+    background-color: #e9a9f1;
+    padding: 5rem
+}
+
+.custom-background-color {
+    background-color: #240430
+}
+
+.custom-font-color {
+    color: black
+}
